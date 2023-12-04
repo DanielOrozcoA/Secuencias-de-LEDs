@@ -1,4 +1,4 @@
-# Secuencias-de-LEDs
+# LEDs Sequences
 ## Description
 In this project an electronic circuit is developed, where through a microcontroller and the activation of certain buttons, on and off sequences of a series of LEDs are executed.
 
